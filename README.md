@@ -9,6 +9,15 @@ I am learning `Learn to build an e-commerce store with .Net, React & Redux` from
 
 ## Setting up the solution
 
+### API
+
+```powershell
+dotnet new list
+
+```
+
+### Client
+
 ```powershell
 
 ```
