@@ -12,8 +12,15 @@ I am learning `Learn to build an e-commerce store with .Net, React & Redux` from
 ### API
 
 ```powershell
+PS D:\STSA\restore-v2-course>
 dotnet new list
 dotnet new sln
+
+PS D:\STSA\restore-v2-course\src>
+dotnet new webapi -n API -controllers
+
+PS D:\STSA\restore-v2-course>
+dotnet sln add .\src\API\API.csproj
 ```
 
 ### Client
