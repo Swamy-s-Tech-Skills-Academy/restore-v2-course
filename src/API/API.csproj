@@ -4,6 +4,7 @@
 		<TargetFramework>net9.0</TargetFramework>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>adb432c2-restore-v2-course</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>
