@@ -26,5 +26,9 @@ dotnet sln add .\src\API\API.csproj
 ### Client
 
 ```powershell
+npm create vite@latest
 
+npm install
+
+npm run dev
 ```
