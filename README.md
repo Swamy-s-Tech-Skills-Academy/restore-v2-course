@@ -21,6 +21,8 @@ dotnet new webapi -n API -controllers
 
 PS D:\STSA\restore-v2-course>
 dotnet sln add .\src\API\API.csproj
+
+dotnet dev-certs https --trust
 ```
 
 ### Client
